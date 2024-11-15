@@ -1,0 +1,2 @@
+# PL-SQL_PostgreSQL-01
+SELECT/INSERT/UPDATE/DELET Statement in SQL 
